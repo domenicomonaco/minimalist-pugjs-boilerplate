@@ -11,7 +11,7 @@ This is a minimalist [pug.js](https://github.com/pugjs/pug) boilerplate based on
 
 To begin using this template, choose one of the following options to get started:
 
-- [Fork, Clone, or Download on GitHub](https://github.com/domenicomonaco/minimalist-pugJS-boilerplate)
+- [Fork, Clone, or Download on GitHub](https://github.com/domenicomonaco/minimalist-pugjs-boilerplate)
 - Clone the repo: `git clone https://github.com/domenicomonaco/minimalist-pugJS-boilerplate.git`
 - Install using npm: `npm i`
 
