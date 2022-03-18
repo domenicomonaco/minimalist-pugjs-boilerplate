@@ -1,7 +1,7 @@
 {
-    "title": "Creative",
-    "name": "startbootstrap-creative",
-    "version": "7.0.5",
+    "title": "Monk Boilerplate",
+    "name": "minimalist-pugjs-boilerplate",
+    "version": "1.0.0",
     "scripts": {
         "build": "npm run clean && npm run build:static && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
         "build:assets": "node scripts/build-assets.js",
@@ -22,21 +22,22 @@
         "pug",
         "responsive",
         "theme",
-        "template"
+        "template",
+        "boilerplate"
     ],
-    "homepage": "https://startbootstrap.com/theme/creative",
+    "homepage": "https://",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-creative/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/domenicomonaco/minimalist-pugjs-boilerplate/issues",
+        "email": "domenico@tecnologieperpersone.it"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Domenico Monaco (https://domenicomoanco.it)",
     "contributors": [
         "David Miller (https://davidmiller.io/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-creative.git"
+        "url": "https://github.com/domenicomonaco/minimalist-pugjs-boilerplate.git"
     },
     "dependencies": {
         "bootstrap": "5.1.3"
