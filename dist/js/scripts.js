@@ -1,7 +1,7 @@
 /*!
-* Start Bootstrap - Creative v7.0.5 (https://startbootstrap.com/theme/creative)
-* Copyright 2013-2022 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-creative/blob/master/LICENSE)
+* Start Bootstrap - MONK Boilerplate v1.0.0 (https://)
+* Copyright 2013-2022 Domenico Monaco (https://domenicomoanco.it)
+* Licensed under MIT (https://github.com/StartBootstrap/minimalist-pugjs-boilerplate/blob/master/LICENSE)
 */
 //
 // Scripts
