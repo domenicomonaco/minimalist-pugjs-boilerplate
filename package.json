@@ -1,5 +1,5 @@
 {
-    "title": "Monk Boilerplate",
+    "title": "MONK Boilerplate",
     "name": "minimalist-pugjs-boilerplate",
     "version": "1.0.0",
     "scripts": {
@@ -23,7 +23,8 @@
         "responsive",
         "theme",
         "template",
-        "boilerplate"
+        "boilerplate",
+        "static"
     ],
     "homepage": "https://",
     "bugs": {
@@ -33,7 +34,7 @@
     "license": "MIT",
     "author": "Domenico Monaco (https://domenicomoanco.it)",
     "contributors": [
-        "David Miller (https://davidmiller.io/)"
+        "Tecnologie per Persone (https://tecnologieperpersone.it)"
     ],
     "repository": {
         "type": "git",
