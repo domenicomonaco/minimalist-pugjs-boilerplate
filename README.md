@@ -1,9 +1,9 @@
-<img align="left" src="https://github.com/domenicomonaco/minimalist-pugjs-boilerplate/blob/master/src/assets/img/logo.png?raw=true" width="64" />
+<img align="left" src="https://github.com/domenicomonaco/minimalist-pugJS-boilerplate/blob/master/src/assets/img/logo.png?raw=true" width="64" />
 
 # MONK BOILERPLATE
 ---
 
-> My nameis MONK and I'm a minimalist boilerplate, why MONKS says *'LESS IS MORE'*
+> My name is MONK and I'm a minimalist pugJS boilerplate, why MONKS says *'LESS IS MORE'*
 
 This is a minimalist [pug.js](https://github.com/pugjs/pug) boilerplate based on [Start Bootstrap Creative Theme](https://github.com/StartBootstrap/startbootstrap-creative).
 
@@ -11,8 +11,8 @@ This is a minimalist [pug.js](https://github.com/pugjs/pug) boilerplate based on
 
 To begin using this template, choose one of the following options to get started:
 
-- [Fork, Clone, or Download on GitHub](https://github.com/domenicomonaco/minimalist-pugjs-boilerplate)
-- Clone the repo: `git clone https://github.com/domenicomonaco/minimalist-pugjs-boilerplate.git`
+- [Fork, Clone, or Download on GitHub](https://github.com/domenicomonaco/minimalist-pugJS-boilerplate)
+- Clone the repo: `git clone https://github.com/domenicomonaco/minimalist-pugJS-boilerplate.git`
 - Install using npm: `npm i`
 
 ## Usage
@@ -46,7 +46,7 @@ You must have npm installed in order to use this build environment.
 
 ## Copyright and License
 
-Copyright 2021-2022 Domenico Monaco [https://domenicomoanco.it](https://domenicomoanco.it) Code released under the [MIT](https://github.com/domenicomonaco/minimalist-pugjs-boilerplate/blob/master/LICENSE) license.
+Copyright 2021-2022 Domenico Monaco [https://domenicomoanco.it](https://domenicomoanco.it) Code released under the [MIT](https://github.com/domenicomonaco/minimalist-pugJS-boilerplate/blob/master/LICENSE) license.
 
 *As the previous Fork*
 
