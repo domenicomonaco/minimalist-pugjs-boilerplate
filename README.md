@@ -46,7 +46,7 @@ You must have npm installed in order to use this build environment.
 
 ## Copyright and License
 
-Copyright 2021-2022 Domenico Monaco [https://domenicomoanco.it](https://domenicomoanco.it) Code released under the [MIT](https://github.com/domenicomonaco/minimalist-pugJS-boilerplate/blob/master/LICENSE) license.
+Copyright 2021-2022 Domenico Monaco [https://domenicomonaco.it](https://domenicomonaco.it) Code released under the [MIT](https://github.com/domenicomonaco/minimalist-pugJS-boilerplate/blob/master/LICENSE) license.
 
 *As the previous Fork*
 

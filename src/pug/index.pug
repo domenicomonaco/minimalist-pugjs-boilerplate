@@ -3,19 +3,19 @@ html(lang='en')
 
     head
         title MONK Boilerplate
-        
+
         include includes/head.pug
-   
+
     body#body
         div.text-center.m-3.p-3.border
             h1 This is MONK's Boilerplate
-            p 
+            p
                 img(src="./assets/img/logo.png" width="64px")
             p
-                button.btn.btn-primary(type="button" data-bs-toggle="modal" data-bs-target="#exampleModal") 
+                button.btn.btn-primary(type="button" data-bs-toggle="modal" data-bs-target="#exampleModal")
                     | Make a question to MONK
             p
-                | LESS IS MORE
+                | My name is MONK and I'm a minimalist pugJS boilerplate, why MONKS says <em>'LESS IS MORE'</em>
 
         .modal.fade#exampleModal(tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true")
             .modal-dialog
@@ -30,5 +30,5 @@ html(lang='en')
                         button(type="button" class="btn btn-secondary") Wrong choice
 
 
-    //Footer      
+    //Footer
     include includes/footer.pug
