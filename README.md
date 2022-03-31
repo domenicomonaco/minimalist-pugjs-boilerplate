@@ -3,7 +3,7 @@
 # MONK BOILERPLATE
 ---
 
-> My name is MONK and I'm a minimalist pugJS boilerplate, why MONKS says *'LESS IS MORE'*
+> My name is MONK and this is a minimalist boilerplate, why MONKS says *'LESS IS MORE'*
 
 This is a minimalist [pug.js](https://github.com/pugjs/pug) boilerplate based on [Start Bootstrap Creative Theme](https://github.com/StartBootstrap/startbootstrap-creative).
 
