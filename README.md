@@ -1,9 +1,11 @@
 <img align="left" src="https://github.com/domenicomonaco/minimalist-pugJS-boilerplate/blob/master/src/assets/img/logo.png?raw=true" width="64" />
 
-# MONK BOILERPLATE
----
 
-> My name is MONK and this is a minimalist boilerplate, why MONKS says *'LESS IS MORE'*
+# PUGJS BOILERPLATE 
+---
+MONK's Maintainers: **Domenico Monaco ([link](https://blog.domenicomonaco.it))** and **Tecnologie per Persone ([link](https://tecnologieperpersone.it))**
+
+> MONK's boilerplate are minimalist boilerplate, why MONKS says *'LESS IS MORE'*
 
 This is a minimalist [pug.js](https://github.com/pugjs/pug) boilerplate based on [Start Bootstrap Creative Theme](https://github.com/StartBootstrap/startbootstrap-creative).
 
@@ -43,6 +45,12 @@ You must have npm installed in order to use this build environment.
 ## About
 
 **MONK Boilerplate** is an open source starter kit based on the [Bootstrap](https://getbootstrap.com/) framework and [Pug](https://github.com/pugjs/pug) high-performance template engineimplemented with JavaScript previouse formerly known as "Jade"
+
+## Sponsors & Maintainers
+
+* Domenico Monaco [https://blog.domenicomonaco.it](https://blog.domenicomonaco.it)
+* Tecnologie per Persone [https://tecnologieperpersone.it](https://tecnologieperpersone.it)
+
 
 ## Copyright and License
 
