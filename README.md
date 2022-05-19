@@ -1,6 +1,6 @@
 #### Part of "MONK's boilerplates"
 
-Minimalist boilerplates inspired to MONK's thinks *'LESS IS MORE'*
+Minimalist boilerplates inspired to MONK's think *'LESS IS MORE'*
 
 ### Sponsored by
 [<img align="left" src="https://github.com/domenicomonaco/minimalist-pugJS-boilerplate/blob/master/src/assets/img/logo.png?raw=true" height="54" />](https://blog.domenicomonaco.it)
