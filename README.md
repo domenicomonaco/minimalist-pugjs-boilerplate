@@ -1,15 +1,13 @@
-<img align="left" src="https://github.com/domenicomonaco/minimalist-pugJS-boilerplate/blob/master/src/assets/img/logo.png?raw=true" width="64" />
+#### Part of "MONK's boilerplates"
 
+Minimalist boilerplates inspired to MONK's thinks *'LESS IS MORE'*
 
-# PUGJS BOILERPLATE 
----
-MONK's Maintainers: **Domenico Monaco ([link](https://blog.domenicomonaco.it))** and **Tecnologie per Persone ([link](https://tecnologieperpersone.it))**
+### Sponsored by
+[<img align="left" src="https://github.com/domenicomonaco/minimalist-pugJS-boilerplate/blob/master/src/assets/img/logo.png?raw=true" height="54" />](https://blog.domenicomonaco.it)
+ [<img src="https://github.com/domenicomonaco/minimalist-pugjs-boilerplate/blob/master/src/assets/img/tecnologie-per-persone-logo.png?raw=true" height="54" />](https://tecnologieperpersone.it)
+ 
+BY **Domenico Monaco ([link](https://blog.domenicomonaco.it))** and **Tecnologie per Persone ([link](https://tecnologieperpersone.it))**
 
-> MONK's boilerplate are minimalist boilerplate, why MONKS says *'LESS IS MORE'*
-
-<img src="https://github.com/domenicomonaco/minimalist-pugjs-boilerplate/blob/master/src/assets/img/tecnologie-per-persone-logo.png?raw=true" width="256" />
-
-----
 
 # PUGJS Boilerplate
 This is a minimalist [pug.js](https://github.com/pugjs/pug) boilerplate based on [Start Bootstrap Creative Theme](https://github.com/StartBootstrap/startbootstrap-creative).
@@ -51,12 +49,6 @@ You must have npm installed in order to use this build environment.
 
 **MONK Boilerplate** is an open source starter kit based on the [Bootstrap](https://getbootstrap.com/) framework and [Pug](https://github.com/pugjs/pug) high-performance template engineimplemented with JavaScript previouse formerly known as "Jade"
 
-## Sponsors & Maintainers
-
-* Domenico Monaco [https://blog.domenicomonaco.it](https://blog.domenicomonaco.it)
-* Tecnologie per Persone [https://tecnologieperpersone.it](https://tecnologieperpersone.it)
-
-
 ## Copyright and License
 
 Copyright 2021-2022 Domenico Monaco [https://domenicomonaco.it](https://domenicomonaco.it) Code released under the [MIT](https://github.com/domenicomonaco/minimalist-pugJS-boilerplate/blob/master/LICENSE) license.
@@ -64,3 +56,5 @@ Copyright 2021-2022 Domenico Monaco [https://domenicomonaco.it](https://domenico
 *As the previous Fork*
 
 > Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-creative/blob/master/LICENSE) license.
+> 
+> 
