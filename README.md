@@ -7,6 +7,11 @@ MONK's Maintainers: **Domenico Monaco ([link](https://blog.domenicomonaco.it))**
 
 > MONK's boilerplate are minimalist boilerplate, why MONKS says *'LESS IS MORE'*
 
+<img src="https://github.com/domenicomonaco/minimalist-pugJS-boilerplate/blob/master/src/assets/img/tecnologie-per-persone-logo?raw=true" width="64" />
+
+----
+
+# PUGJS Boilerplate
 This is a minimalist [pug.js](https://github.com/pugjs/pug) boilerplate based on [Start Bootstrap Creative Theme](https://github.com/StartBootstrap/startbootstrap-creative).
 
 ## Download and Installation
