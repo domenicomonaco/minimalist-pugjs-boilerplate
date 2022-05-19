@@ -7,7 +7,7 @@ MONK's Maintainers: **Domenico Monaco ([link](https://blog.domenicomonaco.it))**
 
 > MONK's boilerplate are minimalist boilerplate, why MONKS says *'LESS IS MORE'*
 
-<img src="https://github.com/domenicomonaco/minimalist-pugJS-boilerplate/blob/master/src/assets/img/tecnologie-per-persone-logo?raw=true" width="64" />
+<img src="https://github.com/domenicomonaco/minimalist-pugjs-boilerplate/blob/master/src/assets/img/tecnologie-per-persone-logo.png?raw=true" width="64" />
 
 ----
 
