@@ -1,7 +1,11 @@
 {
-    "title": "MONK Boilerplate",
+    "title": "PUGSJ boilerplate",
     "name": "minimalist-pugjs-boilerplate",
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "engines": {
+        "node": "14.18.1",
+        "npm": "6.14.15"
+    },
     "scripts": {
         "build": "npm run clean && npm run build:static && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
         "build:assets": "node scripts/build-assets.js",
@@ -32,9 +36,9 @@
         "email": "domenico@tecnologieperpersone.it"
     },
     "license": "MIT",
-    "author": "Domenico Monaco (https://domenicomonaco.it)",
+    "author": "Domenico Monaco (https://blog.domenicomonaco.it)",
     "contributors": [
-        "Tecnologie per Persone (https://tecnologieperpersone.it)"
+        "Tecnologie per Persone (https://www.tecnologieperpersone.it)"
     ],
     "repository": {
         "type": "git",
