@@ -2,6 +2,12 @@
   "title": "PUGSJ boilerplate",
   "name": "minimalist-pugjs-boilerplate",
   "version": "1.0.1",
+  "homepage": "https://",
+  "license": "MIT", 
+  "author": "Domenico Monaco (https://blog.domenicomonaco.it)",
+  "contributors": [
+    "Tecnologie per Persone (https://www.tecnologieperpersone.it)"
+  ],
   "engines": {
     "node": "14.18.1",
     "npm": "6.14.15"
@@ -30,16 +36,10 @@
     "boilerplate",
     "static"
   ],
-  "homepage": "https://",
   "bugs": {
     "url": "https://github.com/domenicomonaco/minimalist-pugjs-boilerplate/issues",
     "email": "domenico@tecnologieperpersone.it"
   },
-  "license": "MIT",
-  "author": "Domenico Monaco (https://blog.domenicomonaco.it)",
-  "contributors": [
-    "Tecnologie per Persone (https://www.tecnologieperpersone.it)"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/domenicomonaco/minimalist-pugjs-boilerplate.git"
