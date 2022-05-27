@@ -3,11 +3,8 @@
 Minimalist boilerplates inspired to MONK's think *'LESS IS MORE'*
 
 ### Sponsored by
-[<img align="left" src="https://github.com/domenicomonaco/minimalist-pugJS-boilerplate/blob/master/src/assets/img/logo.png?raw=true" height="54" />](https://blog.domenicomonaco.it)
- [<img src="https://github.com/domenicomonaco/minimalist-pugjs-boilerplate/blob/master/src/assets/img/tecnologie-per-persone-logo.png?raw=true" height="54" />](https://tecnologieperpersone.it)
- 
-BY **Domenico Monaco ([link](https://blog.domenicomonaco.it))** and **Tecnologie per Persone ([link](https://tecnologieperpersone.it))**
-
+[<img align="left" style="margin:5px; "src="http://cdn.tecnologieperpersone.it/img/dmonaco_happy_hacking.png" height="64" />](https://blog.domenicomonaco.it)
+ [<img style="margin:5px;" src="http://cdn.tecnologieperpersone.it/img/tecnologie-per-persone-logo.png" height="64" />](https://tecnologieperpersone.it)
 
 # PUGJS Boilerplate
 This is a minimalist [pug.js](https://github.com/pugjs/pug) boilerplate based on [Start Bootstrap Creative Theme](https://github.com/StartBootstrap/startbootstrap-creative).
